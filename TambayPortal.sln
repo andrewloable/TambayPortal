@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TambayPortal.Data", "TambayPortal.Data\TambayPortal.Data.csproj", "{93160F38-9745-46F0-8303-F3DBCEDF325E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TambayPortal.Home", "TambayPortal.Home\TambayPortal.Home.csproj", "{9C30F341-E9A8-4E92-8587-955BA9A0F641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93160F38-9745-46F0-8303-F3DBCEDF325E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93160F38-9745-46F0-8303-F3DBCEDF325E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93160F38-9745-46F0-8303-F3DBCEDF325E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93160F38-9745-46F0-8303-F3DBCEDF325E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C30F341-E9A8-4E92-8587-955BA9A0F641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C30F341-E9A8-4E92-8587-955BA9A0F641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C30F341-E9A8-4E92-8587-955BA9A0F641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C30F341-E9A8-4E92-8587-955BA9A0F641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09D1529B-0340-43DB-A9E6-E980239F1A52}
+	EndGlobalSection
+EndGlobal
